@@ -1,4 +1,5 @@
 # deep_learning
 Repository for deep learning projects
 
-##  some fix to description
+##  Deep Learning Nanodegree Program - Udacity - Pytorch
+Exercises
